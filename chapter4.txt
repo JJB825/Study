@@ -1,0 +1,5 @@
+git remote add <filename> <url>: to create a remote repository on git hub
+<filename> is usually origin, conventionally
+
+git push -u origin main: to push the local repository on remote repository on main branch 
+-u flag links up local and remote repository
