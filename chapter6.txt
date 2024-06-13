@@ -1,0 +1,12 @@
+Branching:
+-> Useful when something new other than the current pattern of work needs to be done, which is a type of trial and error
+-> Used when new features need to worked upon and added to original ones
+-> Two or more simultaneous work need to be done 
+-> Useful when more than two people are working on a project and are working on different aspects of project 
+-> In future, if the branched work is ready to be inculcated in main work, that branch can be merged with the main branch
+
+Syntax: 
+Branching: git branch branch-name
+Merging: git merge branch-name
+for displaying all branches: git branch
+for going to certain branch: git checkout branch-name

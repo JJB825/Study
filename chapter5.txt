@@ -1,0 +1,8 @@
+Cloning
+
+Need of cloning: 
+-> Have own copy of program that you need to work upon 
+-> Start from the point where others have left, so that you do not need to repeat the work 
+-> Improvise others code by removing bugs, extending functionality
+
+Syntax: git clone url
