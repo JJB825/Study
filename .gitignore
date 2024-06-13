@@ -1,4 +1,7 @@
 # This is a comment 
 # *.exe -> all the files with extension .exe will be ignored
+
+# github/gitignore -> ready made gitignore file for various purposes
+
 .DS_Store
 secrets.txt
