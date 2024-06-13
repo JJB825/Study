@@ -10,3 +10,5 @@ Branching: git branch branch-name
 Merging: git merge branch-name
 for displaying all branches: git branch
 for going to certain branch: git checkout branch-name
+
+for going to merge new branch in main branch, you need to first be in main branch and then you can proceed
