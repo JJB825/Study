@@ -1,0 +1,5 @@
+git add: add files to staging area
+git commit -m "string": commit changes with title "string". string is the commit message. Always use present tense in commit messages. 
+
+git diff filename: gives all the differences that were made in filename
+git checkout filename: modifies the file to the state that it was before saving the new changes

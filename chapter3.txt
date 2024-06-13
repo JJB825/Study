@@ -1,0 +1,2 @@
+git log: to check commit history
+git add .: to add all files in working directory to staging area

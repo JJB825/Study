@@ -1,0 +1,5 @@
+git init: initialise git
+git status: check how many files are yet to be pushed to staging area
+
+staging area: required to push our file after every change that we made. tracks changes in our file. 
+commit: when file is ready by all the changes, we commit it to git
