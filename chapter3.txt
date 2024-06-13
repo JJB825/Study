@@ -4,3 +4,5 @@ git add .: to add all files in working directory to staging area
 gitignore: Those files which you feel that others should not see
 like API keys, passwords, etc.
 You do not add those files to local repository. By adding these files to gitignore, the local git repository would ignore those files and add other files. 
+
+git rm --cached -r . : this command 

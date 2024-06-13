@@ -1,0 +1,4 @@
+# This is a comment 
+# *.exe -> all the files with extension .exe will be ignored
+.DS_Store
+secrets.txt
