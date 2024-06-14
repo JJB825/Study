@@ -1,3 +1,4 @@
+Learning Github is very intresting and usesul for software engineers like us!!
 git init: initialise git
 git status: check how many files are yet to be pushed to staging area
 
